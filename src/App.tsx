@@ -40,11 +40,7 @@ export default function ActionAreaCard() {
                     </Typography>
                 </Toolbar>
             </AppBar>
-            
-
-    
-
-
+           
 
             <Divider orientation="horizontal" flexItem sx={{margin: 2}}/>
     <Grid container rowSpacing={{ xs: 1, md: 1 }} columnSpacing={{ xs: 1, sm: 5, md: 3 }}  sx={{marginBottom: 5}}>
@@ -204,15 +200,6 @@ export default function ActionAreaCard() {
             </Toolbar>
           </Container>
       </AppBar>
-        </Box>
-      
-
-
-
-
-
-    
-
-       
+        </Box>  
     );
 }
